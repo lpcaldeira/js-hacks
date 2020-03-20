@@ -1,2 +1,3 @@
-# js-hacks
-Compilado de hacks que fui precisando ao longo dos anos
+# JS_hacks
+
+Some hacks using Jquery and Javascript
